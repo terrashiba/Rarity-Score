@@ -9,11 +9,15 @@
       "url": "attributes\/attributes.json"
     },
     {
-      "hash": "sha256-vGc2jBpW0JBgyfx9OGTW3Y+srn8PfMpIg2ItFfqLBDA=",
+      "hash": "sha256-Zq5Cz430HSMc+HpuQuifsR98tPzFfsD2cnGMPOYHcTE=",
       "url": "contracts\/nftcontracts.json"
     },
     {
-      "hash": "sha256-SO\/fuIIWUxoIu1OABrOpK5n\/AvzxJcg+0H3PT1eutAE=",
+      "hash": "sha256-1SWmGB+ZRuMTWpUC8ojhQe1RzrToZEz5vcu4097Dq10=",
+      "url": "contracts\/terranauts\/rarity_scores.json"
+    },
+    {
+      "hash": "sha256-pICyXswhnDUpFLtdwi+dk2KWsugnKfCkNDK1FPrMitU=",
       "url": "css\/app.css"
     },
     {
@@ -69,7 +73,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-IADhlDmpPocJ4GG8Qhrz5xO3PoV3RTO2GCtHlvWzWpE=",
+      "hash": "sha256-l6Fm5tsxivXyRt8scdmOeDFYnt3H\/xDc4nqhbYrn62U=",
+      "url": "images\/terranauts_banner.jpg"
+    },
+    {
+      "hash": "sha256-ed5v\/uhq36morLtuNxfcvA0pCO0I\/XcREYIegcpAxh0=",
       "url": "index.html"
     },
     {
@@ -177,7 +185,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-UbZn8IHQw764u\/J912830UT8xR6D4kw9Yr6naY4uef8=",
+      "hash": "sha256-YJ6TRPFnuY1SQnSOix\/4INBVav06e6D5ENQ57gN\/PeY=",
       "url": "_framework\/RarityScore.dll"
     },
     {
@@ -225,7 +233,7 @@
       "url": "_framework\/System.Linq.Expressions.dll"
     },
     {
-      "hash": "sha256-At+HDr4NPo4GJZJqgwH\/oNCX5tMUECawknkxSYLs\/4g=",
+      "hash": "sha256-NDEwHyEW+ETae9dFiUWricACn2jrk5KPw0KbaLXaOWM=",
       "url": "_framework\/System.Linq.dll"
     },
     {
@@ -273,11 +281,11 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-Bp026\/MIvZkiBGaeoSiFj7mNDdoH3qsG+eo4SixlGq4=",
+      "hash": "sha256-gDBjJ9WGf\/g0amL4HxR3e7ozMN6KqmQNs8Qc4IYuTYU=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-PyoSH9qosTbi6iRoMS+RBQxRq33\/7z9KE\/Ma00gU7Yg=",
+      "hash": "sha256-yO0C4XKKO3s2JT6shMElA6AZKhz9f4UGWX6Angu57VE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -285,5 +293,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "jb7DRyKs"
+  "version": "oTO9CgIh"
 };
